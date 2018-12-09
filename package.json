@@ -1,0 +1,21 @@
+{
+  "name": "coda",
+  "version": "1.0.0",
+  "description": "coda interview",
+  "main": "coda.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "coda"
+  ],
+  "author": "Hozaifa Abdalla",
+  "license": "MIT",
+  "dependencies": {
+    "async-retry": "^1.2.1",
+    "axios": "^0.18.0",
+    "axios-retry": "^3.1.1",
+    "polly-js": "^1.4.3",
+    "retry-axios": "^0.3.2"
+  }
+}
